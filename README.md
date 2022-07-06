@@ -24,13 +24,16 @@ sudo make clean install
 # Look
 <div align="center">
 <img src="https://raw.githubusercontent.com/0xR3V/screenshots/main/slstatus/example_01.png" alt="The Look of the slstatus bar">
-<div>
+</div>
 
 # Support Me and This Project
 `Monero`: `87EiKr8jgQ7BgbjAPPTAQddvJLTnyGNrQeujQ1HUetHGW1s9v9KgJL6hQ4d1Yp4wz568ugfqWWvgJBkCtmNBSWWe28HLzs2`
 
 
+<div align="center">
 
 | 0.005 XMR                                                                                                  | 0.05 XMR                                                                                                          | As Much As You Want!                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/0xR3V/screenshots/main/monero/0.005.png" alt="0.005 QR Code"> | <img title="" src="https://raw.githubusercontent.com/0xR3V/screenshots/main/monero/0.05.png" alt="0.05 QR Code"> | <img title="" src="https://raw.githubusercontent.com/0xR3V/screenshots/main/monero/AMAYW.png" alt="As Much As You Want QR Code"> |
+
+</div>
